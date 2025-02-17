@@ -16,7 +16,7 @@ Confira também o repositório da API:
 [SoftPet Back - Repositório](https://github.com/RicardoVCastilho/softpet-api)
 
 Documentação da API:
-[Documentação - Postman](https://github.com/RicardoVCastilho/softpet-api)
+[Documentação - Postman](https://documenter.getpostman.com/view/39919123/2sAYXFhxL7)
 
 
 
