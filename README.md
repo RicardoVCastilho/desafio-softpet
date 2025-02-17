@@ -1,12 +1,23 @@
 ## SoftPet Front Desafio
-SoftPet Desafio é um projeto front-end desenvolvido para gerenciar informações de pets em uma clínica veterinária fictícia. O projeto foi feito utilizando Next.js e está integrado com uma API de backend para realizar ações como cadastro, remoção e listagem de pacientes (pets).
+SoftPet Desafio é um projeto Fullstack desenvolvido para gerenciar informações de pets em uma clínica veterinária fictícia. O projeto foi feito utilizando Next.js no Frontend e Nest.js no Backend. O projeto consome uma API de backend para realizar ações como cadastro, remoção e listagem de pacientes (pets).
 
-A interface permite visualizar, cadastrar e excluir informações de pets de maneira simples e intuitiva. O deploy do projeto foi feito no Vercel.
+A interface permite visualizar, cadastrar e excluir informações de pets de maneira simples e intuitiva. O deploy do frontend foi feito no Vercel e do backend no Render.
 
 ## 🚀 Acesso ao Projeto
 Você pode acessar a versão online do projeto através do link abaixo:
 
 [SoftPet Front - Vercel](https://softpet-front-desafio.vercel.app/)
+
+Você também pode conferir o backend do projeto através do link:
+[SoftPet Back - Render](https://softpet-api.onrender.com/)
+
+Confira também o repositório da API:
+
+[SoftPet Back - Repositório](https://github.com/RicardoVCastilho/softpet-api)
+
+Documentação da API:
+[Documentação - Postman](https://github.com/RicardoVCastilho/softpet-api)
+
 
 
 ## 💻Tecnologias Usadas
