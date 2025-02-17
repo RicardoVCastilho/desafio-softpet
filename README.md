@@ -1,4 +1,4 @@
-## SoftPet Front Desafio
+## SoftPet - Desafio
 SoftPet Desafio é um projeto Fullstack desenvolvido para gerenciar informações de pets em uma clínica veterinária fictícia. O projeto foi feito utilizando Next.js no Frontend e Nest.js no Backend. O projeto consome uma API de backend para realizar ações como cadastro, remoção e listagem de pacientes (pets).
 
 A interface permite visualizar, cadastrar e excluir informações de pets de maneira simples e intuitiva. O deploy do frontend foi feito no Vercel e do backend no Render.
